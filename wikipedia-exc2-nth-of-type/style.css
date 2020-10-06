@@ -1,0 +1,14 @@
+body {
+  width: 50%;
+  font-size: 15px;
+}
+h2:nth-of-type(odd),
+span {
+  color: red;
+}
+h2:nth-of-type(even) {
+  color: green;
+}
+h2:nth-of-type(3) {
+  color: grey;
+}

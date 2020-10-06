@@ -1,0 +1,21 @@
+li:nth-of-type(odd) {
+  color: purple;
+}
+li:nth-of-type(18n) {
+  color: yellow;
+}
+li:last-of-type {
+  color: black;
+  opacity: 0.5;
+}
+li:nth-of-type(even):hover {
+  color: brown;
+  font-size: x-large;
+}
+
+li:nth-of-type(3n + 3) {
+  color: pink;
+}
+li:nth-of-type(6n + 6) {
+  color: orange;
+}
