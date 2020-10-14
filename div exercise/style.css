@@ -1,0 +1,33 @@
+.container-1 {
+  background-color: #a8e6cf;
+  height: 210px;
+  display: flex;
+}
+.container-2 {
+  background-color: #fdffab;
+  height: 210px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.container-3 {
+  background-color: #ffd3b6;
+  height: 210px;
+  display: flex;
+}
+
+.container-4 {
+  background-color: #ffaaa5;
+  height: 210px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.image-radius {
+  border-radius: 50%;
+}
+ 
+.items{
+    justify-items: right;
+} 
